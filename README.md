@@ -185,4 +185,4 @@ appreciation and renew their commitment.
 The data shows that ability to speak a second language and a low level of education can
 negatively affect the frequency and value of donations received.
 
-# Go to File cantains screenshot of queries done on this project.
+# Go to File contains screenshot of queries done on this project.
